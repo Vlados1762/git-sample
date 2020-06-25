@@ -1,4 +1,3 @@
-Hello, GIT12
-1123
+Hello, GI12
 it's new line.
 VLADOS
