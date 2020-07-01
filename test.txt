@@ -1,5 +1,2 @@
 Hello, GIT12
-1123
-it's new line.
-VLADOS
-29.06
+
